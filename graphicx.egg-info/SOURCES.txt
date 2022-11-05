@@ -1,0 +1,7 @@
+README.md
+setup.py
+graphicx.egg-info/PKG-INFO
+graphicx.egg-info/SOURCES.txt
+graphicx.egg-info/dependency_links.txt
+graphicx.egg-info/top_level.txt
+src/graphicx.c
