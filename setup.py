@@ -1,6 +1,6 @@
 from setuptools import setup, Extension
 
-base = Extension("graphicx", sources=["src/graphicx.c"])
+base = Extension("graphicx", sources=["src/graphicx.c"], extra_link_args=["-O7"])
 
 setup(
     name="graphicx",
